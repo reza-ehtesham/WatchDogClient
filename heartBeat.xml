@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<heartBeat>
+    <process-is-alive>false</process-is-alive>
+    <free-memory>458612736</free-memory>
+    <process-name>notepad</process-name>
+    <processoresCount>2</processoresCount>
+    <system-cpu-load>0.8287401462988584</system-cpu-load>
+    <time>18:47</time>
+    <total-memory>2072956928</total-memory>
+</heartBeat>
